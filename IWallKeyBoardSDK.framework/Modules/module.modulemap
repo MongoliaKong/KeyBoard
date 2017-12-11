@@ -1,0 +1,6 @@
+framework module IWallKeyBoardSDK {
+  umbrella header "IWallKeyBoardSDK.h"
+
+  export *
+  module * { export * }
+}
