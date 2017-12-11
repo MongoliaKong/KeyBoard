@@ -1,6 +1,0 @@
-framework module frameWORKD {
-  umbrella header "frameWORKD.h"
-
-  export *
-  module * { export * }
-}
